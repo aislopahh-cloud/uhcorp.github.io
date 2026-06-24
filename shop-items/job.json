@@ -1,9 +1,0 @@
-{
-    "order": 7,
-    "name": "Job",
-    "price": 4500,
-    "description": "Get a job position",
-    "icon": "job.png",
-    "type": "permanent",
-    "scaling": false
-}

@@ -1,9 +1,0 @@
-{
-    "order": 3,
-    "name": "Golden Gamble Ticket",
-    "price": 1200,
-    "description": "Better odds",
-    "icon": "golden_gamble_ticket.png",
-    "type": "consumable",
-    "scaling": false
-}

@@ -1,9 +1,0 @@
-{
-    "order": 10,
-    "name": "Spectator",
-    "price": 1000,
-    "description": "Watch from the shadows",
-    "icon": "spectator.png",
-    "type": "consumable",
-    "scaling": false
-}
