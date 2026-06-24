@@ -1,0 +1,9 @@
+{
+    "order": 5,
+    "name": "Double Vote",
+    "price": 2500,
+    "description": "Double your vote power",
+    "icon": "doublevote.png",
+    "type": "consumable",
+    "scaling": false
+}

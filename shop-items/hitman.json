@@ -1,0 +1,9 @@
+{
+    "order": 6,
+    "name": "Hitman",
+    "price": 4000,
+    "description": "Hire a hitman",
+    "icon": "hitman.png",
+    "type": "consumable",
+    "scaling": false
+}

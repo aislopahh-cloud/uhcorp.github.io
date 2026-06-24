@@ -1,0 +1,10 @@
+{
+    "order": 8,
+    "name": "Jackpot Potion",
+    "price": 900,
+    "description": "Scales 1.45x/owned",
+    "icon": "jackpot_potion.png",
+    "type": "consumable",
+    "scaling": true,
+    "scaling_rate": 1.45
+}

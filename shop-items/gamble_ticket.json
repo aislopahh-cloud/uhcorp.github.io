@@ -1,0 +1,9 @@
+{
+    "order": 2,
+    "name": "Gamble Ticket",
+    "price": 600,
+    "description": "Try your luck",
+    "icon": "gamble_ticket.png",
+    "type": "consumable",
+    "scaling": false
+}

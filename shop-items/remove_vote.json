@@ -1,0 +1,9 @@
+{
+    "order": 4,
+    "name": "Remove Vote",
+    "price": 2000,
+    "description": "Remove a vote from someone",
+    "icon": "removevote.png",
+    "type": "consumable",
+    "scaling": false
+}
